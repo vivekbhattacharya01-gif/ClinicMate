@@ -1,8 +1,8 @@
-# 🏥 ClinicMate
+# 🏥 ClinicMate – AI Healthcare Assistant
 
-> AI-powered Healthcare Assistant built using the TARS AI Agent Platform.
+> AI-powered Healthcare Assistant built using the **TARS AI Agent Platform**.
 
-> Built as part of the **TARS Implementation Engineer Technical Assessment (July–August 2026).**
+> Independently designed and built as part of the **TARS Implementation Engineer Technical Assessment (July–August 2026).**
 
 ---
 
@@ -14,57 +14,31 @@
 
 ## 📖 Overview
 
-ClinicMate is an AI-powered healthcare assistant designed to help patients quickly find information, ask common healthcare questions, and request appointments through a conversational interface.
+ClinicMate is an AI-powered healthcare assistant that helps patients find healthcare information, answer common questions, and request appointments through an intelligent conversational interface.
 
-The assistant was built entirely using the **TARS AI Agent Platform** with a strong focus on user experience, conversational design, and intelligent patient interaction.
+The assistant was built using the **TARS AI Agent Platform** with a strong focus on conversational AI, user experience, and structured workflow design.
 
 ---
 
 ## ✨ Features
 
-- Answer patient questions using a knowledge base
-- Differentiate between new and existing patients
-- Collect appointment requests
-- Personalized conversational experience
-- Branching conversation flows
-- Lead capture workflow
-- Responsive chat interface
+- Answer patient queries using a knowledge base
+- Distinguish between new and existing patients
+- Collect appointment requests through guided workflows
+- Personalize conversations based on patient type
+- Capture patient information using branching logic
+- Support intelligent lead capture workflows
+- Deliver a responsive conversational experience
 
 ---
 
 ## 🛠 Tech Stack
 
 - TARS AI Agent Platform
-- Prompt Engineering
 - Conversational AI
+- Prompt Engineering
 - Workflow Design
 - Knowledge Base
-
----
-
-## ⚠️ Limitations
-
-The original assignment required Salesforce Lead and Task creation.
-
-This integration was not completed because Salesforce API credentials and authenticated access were unavailable during the assessment.
-
----
-
-## 📄 Assignment Context
-
-This project was independently built as part of the first-round technical assessment for the **TARS Implementation Engineer Internship**.
-
-The objective was to design an AI-powered healthcare assistant capable of answering patient queries, identifying new and existing patients, and collecting appointment requests through an intelligent conversational workflow.
-
----
-
-## 🚀 Future Improvements
-
-- Salesforce CRM Integration
-- Appointment Scheduling API
-- Multi-language Support
-- Analytics Dashboard
-- WhatsApp Integration
 
 ---
 
@@ -74,21 +48,62 @@ The objective was to design an AI-powered healthcare assistant capable of answer
 
 ![Workflow Overview](screenshots/workflow-overview.png)
 
+---
+
 ### Main Conversation Flow
 
 ![Main Conversation Flow](screenshots/workflow-main.png)
+
+---
 
 ### Appointment Request Flow
 
 ![Appointment Request Flow](screenshots/appointment-flow.png)
 
-### Salesforce Integration Flow
+---
 
-![Salesforce Integration Flow](screenshots/salesforce-flow.png)
+### Salesforce Integration Workflow
+
+![Salesforce Integration](screenshots/salesforce-flow.png)
+
+---
 
 ### Live Conversation
 
 ![Live Conversation](screenshots/chat-demo.png)
+
+---
+
+## ⚠️ Limitations
+
+The original assignment required Salesforce Lead and Task creation.
+
+The workflow includes a Salesforce integration node; however, live Lead creation could not be completed because authenticated Salesforce API credentials were unavailable during the assessment.
+
+---
+
+## 📄 Assignment Context
+
+This project was independently developed as part of the first-round technical assessment for the **TARS Implementation Engineer Internship**.
+
+The objective was to design an AI-powered healthcare assistant capable of:
+
+- Answering patient questions
+- Identifying new and existing patients
+- Capturing appointment requests
+- Demonstrating conversational workflow design
+
+---
+
+## 🚀 Future Improvements
+
+- Salesforce CRM Integration
+- Calendar & Appointment Scheduling
+- Multi-language Support
+- Analytics Dashboard
+- WhatsApp Integration
+
+---
 
 ## 👨‍💻 Author
 
