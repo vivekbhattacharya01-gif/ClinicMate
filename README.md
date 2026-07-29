@@ -68,6 +68,28 @@ The objective was to design an AI-powered healthcare assistant capable of answer
 
 ---
 
+## 📸 Screenshots
+
+### Workflow Overview
+
+![Workflow Overview](screenshots/workflow-overview.png)
+
+### Main Conversation Flow
+
+![Main Conversation Flow](screenshots/workflow-main.png)
+
+### Appointment Request Flow
+
+![Appointment Request Flow](screenshots/appointment-flow.png)
+
+### Salesforce Integration Flow
+
+![Salesforce Integration Flow](screenshots/salesforce-flow.png)
+
+### Live Conversation
+
+![Live Conversation](screenshots/chat-demo.png)
+
 ## 👨‍💻 Author
 
 **Vivek Bhattacharya**
